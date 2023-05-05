@@ -1,1 +1,4 @@
-print("Hello StreamLit")
+import streamlet as st
+
+st.write("Hello StreamLit")
+
